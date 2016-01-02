@@ -1,0 +1,12 @@
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\bin\Release\WebPageGrabber.exe.config
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\bin\Release\WebPageGrabber.exe
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\bin\Release\WebPageGrabber.pdb
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\bin\Release\HtmlAgilityPack.dll
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\bin\Release\HtmlAgilityPack.pdb
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\bin\Release\HtmlAgilityPack.xml
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\obj\Release\WebPageGrabber.csprojResolveAssemblyReference.cache
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\obj\Release\WebPageGrabber.MainForm.resources
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\obj\Release\WebPageGrabber.Properties.Resources.resources
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\obj\Release\WebPageGrabber.csproj.GenerateResource.Cache
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\obj\Release\WebPageGrabber.exe
+F:\vs\WebpageGrabber\WebPageGrabber\WebPageGrabber\obj\Release\WebPageGrabber.pdb

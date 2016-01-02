@@ -1,0 +1,1 @@
+If you dont have visual studio, get into the WebPageGrabber folder and view the *.cs files to see source code.
